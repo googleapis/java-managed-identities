@@ -588,6 +588,14 @@ public class ManagedIdentitiesServiceClient implements BackgroundResource {
    * <pre>{@code
    * try (ManagedIdentitiesServiceClient managedIdentitiesServiceClient =
    *     ManagedIdentitiesServiceClient.create()) {
+   *   ListDomainsRequest request =
+   *       ListDomainsRequest.newBuilder()
+   *           .setParent(DomainName.of("[PROJECT]", "[LOCATION]", "[DOMAIN]").toString())
+   *           .setPageSize(883849137)
+   *           .setPageToken("pageToken873572522")
+   *           .setFilter("filter-1274492040")
+   *           .setOrderBy("orderBy-1207110587")
+   *           .build();
    *   while (true) {
    *     ListDomainsResponse response =
    *         managedIdentitiesServiceClient.listDomainsCallable().call(request);

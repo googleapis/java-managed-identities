@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/java-managed-identities/compare/v0.2.1...v0.3.0) (2021-08-19)
+
+
+### Features
+
+* configure initial sp version ([#78](https://www.github.com/googleapis/java-managed-identities/issues/78)) ([a7e1389](https://www.github.com/googleapis/java-managed-identities/commit/a7e1389cd92da67fff46c1fe144fc04778004298))
+
 ### [0.2.1](https://www.github.com/googleapis/java-managed-identities/compare/v0.2.0...v0.2.1) (2021-06-09)
 
 

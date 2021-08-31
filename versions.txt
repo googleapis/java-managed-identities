@@ -2,5 +2,7 @@
 # module:released-version:current-version
 
 google-cloud-managed-identities:0.3.2:0.3.3-SNAPSHOT
-proto-google-cloud-managed-identities-v1:0.3.2:0.3.3-SNAPSHOT
 grpc-google-cloud-managed-identities-v1:0.3.2:0.3.3-SNAPSHOT
+grpc-google-cloud-managed-identities-v1beta1:0.3.2:0.3.3-SNAPSHOT
+proto-google-cloud-managed-identities-v1:0.3.2:0.3.3-SNAPSHOT
+proto-google-cloud-managed-identities-v1beta1:0.3.2:0.3.3-SNAPSHOT

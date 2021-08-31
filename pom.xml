@@ -65,16 +65,6 @@
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
-        <artifactId>proto-google-cloud-managed-identities-v1beta1</artifactId>
-        <version>0.3.3-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-managed-identities-v1beta1:current} -->
-      </dependency>
-      <dependency>
-        <groupId>com.google.api.grpc</groupId>
-        <artifactId>grpc-google-cloud-managed-identities-v1beta1</artifactId>
-        <version>0.3.3-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-managed-identities-v1beta1:current} -->
-      </dependency>
-      <dependency>
-        <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-managed-identities-v1</artifactId>
         <version>0.3.3-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-managed-identities-v1:current} -->
       </dependency>
@@ -114,9 +104,7 @@
   <modules>
     <module>google-cloud-managed-identities</module>
     <module>grpc-google-cloud-managed-identities-v1</module>
-    <module>grpc-google-cloud-managed-identities-v1beta1</module>
     <module>proto-google-cloud-managed-identities-v1</module>
-    <module>proto-google-cloud-managed-identities-v1beta1</module>
     <module>google-cloud-managed-identities-bom</module>
   </modules>
 

@@ -4,14 +4,14 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-managed-identities.git",
-        "sha": "bf0a850eabef22aa3247a34d590ab092f2bbb009"
+        "sha": "b3e7d1e976e0e5a75af0c95e2bc529ae1b67a80a"
       }
     },
     {
       "git": {
         "name": "synthtool",
         "remote": "https://github.com/googleapis/synthtool.git",
-        "sha": "a01e1a0bf70754f51450958b966bd673945d1e6e"
+        "sha": "9a238a0623879c3de129a376c6085d4a862f6eb9"
       }
     }
   ]

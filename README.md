@@ -22,20 +22,20 @@ If you are using Maven, add this to your pom.xml file:
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-managed-identities</artifactId>
-  <version>0.3.3</version>
+  <version>0.3.4</version>
 </dependency>
 ```
 
 If you are using Gradle without BOM, add this to your dependencies
 
 ```Groovy
-implementation 'com.google.cloud:google-cloud-managed-identities:0.3.3'
+implementation 'com.google.cloud:google-cloud-managed-identities:0.3.4'
 ```
 
 If you are using SBT, add this to your dependencies
 
 ```Scala
-libraryDependencies += "com.google.cloud" % "google-cloud-managed-identities" % "0.3.3"
+libraryDependencies += "com.google.cloud" % "google-cloud-managed-identities" % "0.3.4"
 ```
 
 ## Authentication
@@ -165,7 +165,7 @@ Java 11 | [![Kokoro CI][kokoro-badge-image-5]][kokoro-badge-link-5]
 Java is a registered trademark of Oracle and/or its affiliates.
 
 [product-docs]: https://cloud.google.com/managed-microsoft-ad/
-[javadocs]: https://googleapis.dev/java/google-cloud-managed-identities/latest/index.html
+[javadocs]: https://cloud.google.com/java/docs/reference/google-cloud-managed-identities/latest/history
 [kokoro-badge-image-1]: http://storage.googleapis.com/cloud-devrel-public/java/badges/java-managed-identities/java7.svg
 [kokoro-badge-link-1]: http://storage.googleapis.com/cloud-devrel-public/java/badges/java-managed-identities/java7.html
 [kokoro-badge-image-2]: http://storage.googleapis.com/cloud-devrel-public/java/badges/java-managed-identities/java8.svg
@@ -186,10 +186,10 @@ Java is a registered trademark of Oracle and/or its affiliates.
 [developer-console]: https://console.developers.google.com/
 [create-project]: https://cloud.google.com/resource-manager/docs/creating-managing-projects
 [cloud-sdk]: https://cloud.google.com/sdk/
-[troubleshooting]: https://github.com/googleapis/google-cloud-common/blob/master/troubleshooting/readme.md#troubleshooting
-[contributing]: https://github.com/googleapis/java-managed-identities/blob/master/CONTRIBUTING.md
-[code-of-conduct]: https://github.com/googleapis/java-managed-identities/blob/master/CODE_OF_CONDUCT.md#contributor-code-of-conduct
-[license]: https://github.com/googleapis/java-managed-identities/blob/master/LICENSE
+[troubleshooting]: https://github.com/googleapis/google-cloud-common/blob/main/troubleshooting/readme.md#troubleshooting
+[contributing]: https://github.com/googleapis/java-managed-identities/blob/main/CONTRIBUTING.md
+[code-of-conduct]: https://github.com/googleapis/java-managed-identities/blob/main/CODE_OF_CONDUCT.md#contributor-code-of-conduct
+[license]: https://github.com/googleapis/java-managed-identities/blob/main/LICENSE
 [enable-billing]: https://cloud.google.com/apis/docs/getting-started#enabling_billing
 [enable-api]: https://console.cloud.google.com/flows/enableapi?apiid=managed-identities.googleapis.com
 [libraries-bom]: https://github.com/GoogleCloudPlatform/cloud-opensource-java/wiki/The-Google-Cloud-Platform-Libraries-BOM

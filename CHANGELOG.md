@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/googleapis/java-managed-identities/compare/v1.1.5...v1.1.6) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([09966d5](https://github.com/googleapis/java-managed-identities/commit/09966d5d990e5fe7de6b741ce973d3d9c099d47d))
+
 ## [1.1.5](https://github.com/googleapis/java-managed-identities/compare/v1.1.4...v1.1.5) (2022-10-03)
 
 

@@ -9,6 +9,13 @@ Java idiomatic client for [Managed Service for Microsoft Active Directory][produ
 - [Client Library Documentation][javadocs]
 
 
+:bus: In October 2022, this library has moved to
+[google-cloud-java/java-managed-identities](
+https://github.com/googleapis/google-cloud-java/tree/main/java-managed-identities).
+This repository will be archived in the future.
+Future releases will appear in the new repository (https://github.com/googleapis/google-cloud-java/releases).
+The Maven artifact coordinates (`com.google.cloud:google-cloud-managed-identities`) remain the same.
+
 ## Quickstart
 
 
@@ -27,13 +34,13 @@ If you are using Maven, add this to your pom.xml file:
 If you are using Gradle without BOM, add this to your dependencies:
 
 ```Groovy
-implementation 'com.google.cloud:google-cloud-managed-identities:1.1.6'
+implementation 'com.google.cloud:google-cloud-managed-identities:1.4.0'
 ```
 
 If you are using SBT, add this to your dependencies:
 
 ```Scala
-libraryDependencies += "com.google.cloud" % "google-cloud-managed-identities" % "1.1.6"
+libraryDependencies += "com.google.cloud" % "google-cloud-managed-identities" % "1.4.0"
 ```
 
 ## Authentication
